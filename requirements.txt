@@ -1,0 +1,22 @@
+# Core Deep Learning Framework 
+torch==1.10.0
+torchvision==0.11.0
+
+# Bioinformatics & Cheminformatics 
+rdkit==2025.3.6
+unimol-tools==0.1.5
+
+# Machine Learning & Data Processing
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.0
+scipy==1.6.3
+
+# Transformers & LLM Features 
+transformers==4.53.3
+tokenizers==0.21.0
+huggingface-hub==0.31.4
+
+# Utilities & Visualization 
+tqdm==4.62.3
+matplotlib==3.4.3
