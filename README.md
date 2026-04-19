@@ -1,6 +1,6 @@
 # MultiMol
 MultiMol is a bidirectional attention network for multi-level representation learning for drug response prediction. MultiMol designs a dual-stream architecture to extract molecular representation. Specifically, a 1D sequence-aware molecular language model captures semantic information, while a 3D conformation-aware pre-training model encodes spatial geometric characteristics. Importantly, we propose a bidirectional cross-attention network that  integrates multi-modal representations into a complementary space. Furthermore, a bilinear attention network is developed to capture the bidirectional interaction between cell lines and drugs, thereby enhancing the performance of sensitivity prediction. 
-<img width="12950" height="2000" alt="model_pictures" src="https://github.com/user-attachments/assets/24a83769-4044-40aa-9cda-8f3a960b3532" />
+<img width="12950" height="1000" alt="model_pictures" src="https://github.com/user-attachments/assets/24a83769-4044-40aa-9cda-8f3a960b3532" />
 
 
 
